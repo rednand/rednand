@@ -1,4 +1,5 @@
-### Hi there 👋
+
+  ### Hi there 👋
 
 I'm Renan! :D
 
@@ -17,10 +18,8 @@ I'm Renan! :D
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hirenanaguiar)](https://twitter.com/hirenanaguiar)
 
-
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="https://github.com/rednand/DIO/blob/main/sempre-em-movimento.jpg" width="350" alt="accessibility text">
+  <img src="https://github.com/rednand/DIO/blob/main/sempre-em-movimento.jpg" width="350" height="350" alt="accessibility text">
 </p>
 
 
