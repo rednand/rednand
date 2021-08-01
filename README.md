@@ -7,7 +7,6 @@ I'm Renan! :D
 
 - 🔭 I’m currently working on Kantar Ibope Media
 - 🌱 I’m currently learning JAVA, JavaScript, React
-- 🤔 I’m looking for help with React
 - 💬 Ask me about anything
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
