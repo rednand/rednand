@@ -12,7 +12,6 @@ I'm Renan! :D
 - 🌱 I’m currently learning JAVA, JavaScript, React
 - 💬 Ask me about anything
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
   
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-aguiar-b89366147/)](hhttps://www.linkedin.com/in/renan-aguiar-b89366147/)
