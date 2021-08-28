@@ -11,7 +11,7 @@ I'm Renan! :D
 - 🔭 I’m currently working on Kantar Ibope Media
 - 🌱 I’m currently learning JAVA, JavaScript, React
 - 💬 Ask me about anything
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
   
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-aguiar-b89366147/)](hhttps://www.linkedin.com/in/renan-aguiar-b89366147/)
