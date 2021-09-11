@@ -3,7 +3,7 @@
 
 I'm Renan! :D
 
-<a align="left">
+<div align="left">
 
 - 🔭 I’m currently working on Kantar Ibope Media
 - 🌱 I’m currently learning JAVA, JavaScript, React
@@ -17,10 +17,10 @@ I'm Renan! :D
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hirenanaguiar)](https://twitter.com/hirenanaguiar)
 
-</a>
+</div>
 
  <div>
-  <a href="https://github.com/rednan">
+  <a href="https://github.com/rednand">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rednand&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rednand&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
