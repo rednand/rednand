@@ -14,11 +14,6 @@ I'm Renan! :D
 - 😄 Pronouns: He/Him
   
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-aguiar-b89366147/)](hhttps://www.linkedin.com/in/renan-aguiar-b89366147/)
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rednand)](https://github.com/rednand)
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hirenanaguiar)](https://twitter.com/hirenanaguiar)
 
 </a>
 
@@ -41,12 +36,13 @@ I'm Renan! :D
   ##
  
 <div> 
-  <a href="https://instagram.com/renan.aguiar_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:van.zacher@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vanderlei-zacher/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/vanzacher/vanzacher/blob/output/github-contribution-grid-snake.svg)
- 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-aguiar-b89366147/)](hhttps://www.linkedin.com/in/renan-aguiar-b89366147/)
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rednand)](https://github.com/rednand)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hirenanaguiar)](https://twitter.com/hirenanaguiar)
+
+  
 </div>
 
 
