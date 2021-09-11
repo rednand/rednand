@@ -31,11 +31,8 @@ I'm Renan! :D
   <img align="center" alt="Van-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="Van-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="right" alt="Van-BabyYoda" height="150" width="120" src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif">
-</div>
-  
-  ##
- 
-<div> 
+</div> 
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-aguiar-b89366147/)](hhttps://www.linkedin.com/in/renan-aguiar-b89366147/)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rednand)](https://github.com/rednand)
@@ -43,7 +40,6 @@ I'm Renan! :D
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hirenanaguiar)](https://twitter.com/hirenanaguiar)
 
   
-</div>
 
 
 
