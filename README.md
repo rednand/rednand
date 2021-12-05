@@ -5,7 +5,7 @@ I'm Renan! :D
 
 <div align="left">
 
-- 🔭 I’m currently working on Kantar Ibope Media
+- 🔭 I’m currently working on Grupo Multiplica
 - 🌱 I’m currently learning JAVA, JavaScript, React
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
