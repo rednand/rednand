@@ -7,8 +7,6 @@ I'm Renan! :D
 
 - 🔭 I’m currently working on Grupo Multiplica
 - 🌱 I’m currently learning ReactJS, JavaScript, Azure DevOps
-- 💬 Ask me about anything
-- 😄 Pronouns: He/Him
  
  </div>
 
