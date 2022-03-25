@@ -26,9 +26,6 @@ I'm Renan! :D
  <img align="center" alt="GRenanAguiar-TS" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
- <div style+"display: inline-block">
- <br>
- <br>
+##
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-aguiar-b89366147/)](hhttps://www.linkedin.com/in/renan-aguiar-b89366147/)
  
- </div>
