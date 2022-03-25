@@ -10,14 +10,7 @@ I'm Renan! :D
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
  
- 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-aguiar-b89366147/)](hhttps://www.linkedin.com/in/renan-aguiar-b89366147/)
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rednand)](https://github.com/rednand)
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hirenanaguiar)](https://twitter.com/hirenanaguiar)
-
-</div>
+ </div>
 
 <div align="center">
   <a href="https://github.com/rednand">
@@ -25,4 +18,17 @@ I'm Renan! :D
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rednand&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
+<div style="display: inline_block"><br>
+ <img align="center" alt="RenanAguiar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="RenanAguiar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="RenanAguiar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="RenanAguiar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="GRenanAguiar-TS" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</div>
 
+ <div style+"display: inline-block">
+ <br>
+ <br>
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-aguiar-b89366147/)](hhttps://www.linkedin.com/in/renan-aguiar-b89366147/)
+ 
+ </div>
