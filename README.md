@@ -6,7 +6,7 @@ I'm Renan! :D
 <div align="left">
 
 - 🔭 I’m currently working on Grupo Multiplica
-- 🌱 I’m currently learning ReactJS, JavaScript, Azure DevOps
+- 🌱 I’m currently learning ReactJS, TypeScript, Azure DevOps
  
  </div>
 
