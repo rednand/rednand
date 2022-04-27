@@ -6,7 +6,7 @@ I'm Renan! :D
 <div align="left">
 
  - 👨‍💻 Front-end Developer.
-- 🌱 I’m currently learning ReactJS, TypeScript, Azure DevOps
+- 🌱 I’m currently learning ReactJS, TypeScript, NodeJS
  
  </div>
 
