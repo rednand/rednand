@@ -12,8 +12,8 @@ I'm Renan! :D
 
 <div align="center">
   <a href="https://github.com/rednand">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rednand&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rednand&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rednand&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=1,000000,07da63&title_color=fff&text_color=fff&icon_color=08f26e&border_radius=0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rednand&layout=compact&langs_count=7&theme=chartreuse-dark&bg_color=1,07da63,000000&title_color=fff&text_color=fff&border_radius=0"/>
 </div>
 
  
