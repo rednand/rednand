@@ -65,7 +65,7 @@ I'm Renan! :D
 
 <div>
  
-![Snake animation](https://github.com/rednand/rednand/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/rednand/rednand/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
  
