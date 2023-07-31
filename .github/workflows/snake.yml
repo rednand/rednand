@@ -19,7 +19,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: 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
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
