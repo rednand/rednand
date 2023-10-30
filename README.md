@@ -7,17 +7,23 @@ I'm Renan! :D
  - 👨‍💻 Front-end Developer.
 - 🌱 I’m currently learning ReactJS, TypeScript, NodeJS
 
-   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rednand&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rednand&theme=panda)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
- 
  </div>
 
 <div align="center">
   <a href="https://github.com/rednand">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rednand&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=1,000000,07da63&title_color=fff&text_color=fff&icon_color=08f26e"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rednand&layout=compact&langs_count=7&theme=chartreuse-dark&bg_color=1,07da63,000000&title_color=fff&text_color=fff&border_radius=0"/>
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rednand&theme=panda"/>
+  </a>
+  <a href="https://github.com/rednand">
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rednand&theme=panda"/>
+  </a>
+  <a href="https://github.com/rednand">
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rednand&theme=panda"/>
+  </a>
+  <a href="https://github.com/rednand">
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rednand&theme=panda"/>
+  </a>
 </div>
+
 
  
 ### Skills
