@@ -1,4 +1,3 @@
-
 ### Hi there 👋
 
 I'm Renan! :D
@@ -7,6 +6,10 @@ I'm Renan! :D
 
  - 👨‍💻 Front-end Developer.
 - 🌱 I’m currently learning ReactJS, TypeScript, NodeJS
+
+   
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rednand&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rednand&theme=panda)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
  
  </div>
 
