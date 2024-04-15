@@ -49,7 +49,7 @@ Olá, sou o Renan! :D
 
 </p>
 
-### Contact
+### Contato
 
 <p align="center">
        <a href = "mailto:nan-aguiar@hotmail.com">
@@ -65,7 +65,7 @@ Olá, sou o Renan! :D
  
 </p>
 
-### Profile visits
+### Visitas
 <p align="center"> 
    <img height="25px" alingn="center" src="https://profile-counter.glitch.me/rednand/count.svg" />
  </p>
@@ -74,7 +74,7 @@ Olá, sou o Renan! :D
 
 <div>
  
-### Contributions
+### Contribuições
  
 ![Status](./profile-3d-contrib/profile-night-green.svg)
 
