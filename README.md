@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Renan! :D
+Olá, sou o Renan! :D
 
 <div align="left">
 
- - 👨‍💻 Front-end Developer.
-- 🌱 I’m currently learning ReactJS, TypeScript, NodeJS
+ - 👨‍💻 Desenvolvedor Front-end.
+- 🌱 Trabalho utilizando ReactJS, TypeScript, JavaScript e estou atualmente aprendendo NodeJS, React Native e Java.
 
  </div>
 
