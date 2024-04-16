@@ -1,6 +1,6 @@
-### Hi there 👋
+### Olá 👋
 
-Olá, sou o Renan! :D
+Sou o Renan! :D
 
 <div align="left">
 
