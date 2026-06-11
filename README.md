@@ -25,7 +25,7 @@ Sou o Renan! :D
 </div>
 
 
- 
+  
 ### Skills
 
 <p align="center">
@@ -72,8 +72,7 @@ Sou o Renan! :D
 ![Status](./profile-3d-contrib/profile-night-green.svg)
 
 
-![snake](https://raw.githubusercontent.com/rednand/rednand/output/github-contribution-grid-snake.svg)
-
+![snake](https://raw.githubusercontent.com/rednand/rednand/output/github-contribution-grid-snake.svg?cache_buster=1)
 
 </div>
  
