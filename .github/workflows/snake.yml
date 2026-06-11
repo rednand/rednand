@@ -22,16 +22,14 @@ jobs:
           outputs_path: dist/github-contribution-grid-snake.svg
           outputs: |
             dist/github-contribution-grid-snake.svg
-          outputs_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push generated snake
+      - name: Push generated snake to output branch
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add dist/github-contribution-grid-snake.svg
+          git checkout -b output || git checkout output
           git commit -m "Generate snake animation" || true
-          git push origin output || git push --set-upstream origin output
+          git push -u origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
