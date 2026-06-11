@@ -12,6 +12,10 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
       - uses: Platane/snk@v3
         with:
           github_user_name: rednand
@@ -19,5 +23,15 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
           outputs_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push generated snake
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Generate snake animation" || true
+          git push origin output || git push --set-upstream origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
