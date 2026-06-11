@@ -65,13 +65,6 @@ Sou o Renan! :D
  
 </p>
 
-### Visitas
-<p align="center"> 
-   <img height="25px" alingn="center" src="https://profile-counter.glitch.me/rednand/count.svg" />
- </p>
-
-</p>
-
 <div>
  
 ### Contribuições
