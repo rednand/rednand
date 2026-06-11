@@ -9,6 +9,8 @@ jobs:
   build:
     name: Generate snake animation
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: Platane/snk/generate_github_contribution_grid_snake_svg@v3
         id: snake-gif
