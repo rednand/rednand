@@ -12,15 +12,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk/generate_github_contribution_grid_snake_svg@v3
-        id: snake-gif
+      - uses: Platane/snk@v4
         with:
           github_user_name: rednand
           outputs_path: dist/github-contribution-grid-snake.svg
-
-      - uses: Platane/snk/push_to_github_output@v3
-        with:
-          input_path: dist
-          output_branch: output
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+          outputs_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
