@@ -18,6 +18,6 @@ jobs:
           outputs_path: dist/github-contribution-grid-snake.svg
           outputs: |
             dist/github-contribution-grid-snake.svg
-          outputs_branch: main
+          outputs_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
